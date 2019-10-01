@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SecondaryCamera
+  - MissionController
+  - MainMenuInfoPanel
+  - AllyShot
+  - Fire
+  - Enemy
+  - EnemySpawnPoint
+  - Friendly
+  - EnemyShot
+  - RapidFireShot
+  - Ally
+  - EnemyCannonShot
+  - EnemyBShot
+  - EnemyIShot
+  - PlayerTorpedo
+  - EnemyHitbox
+  - AllyHitbox
+  - Collision
+  - ShotDetector
+  - Solid
+  - WorldBounds
+  - EntitySpawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,27 @@
+# 
+# Wavefront material file
+# Converted by 3D Exploration 1.71
+# XDimension Software, LLC
+# http://www.xdsoft.com/explorer/
+# 
+newmtl _3___Default
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0 0 0
+	 illum 2
+	 Ns 10
+	 map_Kd SWBF_Nebulon_B_t_frigatenebulonb_01_cs.jpg
+newmtl _1___Default
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0 0 0
+	 illum 2
+	 Ns 10
+	 map_Kd SWBF_Nebulon_B_t_frigatenebulonb_01_cs.jpg
+newmtl _2___Default
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0 0 0
+	 illum 2
+	 Ns 10
+	 map_Kd SWBF_Nebulon_B_t_frigatenebulonb_01_em.jpg
